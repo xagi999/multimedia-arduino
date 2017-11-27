@@ -1,0 +1,8 @@
+formactivar.html -> busca el alumno y cambia el estado a activo 		 automaticamente. despues lo muestra en una tablita la pag que lo activa se llama habilitar.php...
+
+formeliminar.html -> busca el alumno y lo deshabilita automaticamente y lo muestra en una tablita. el archivo que cambia el estado del alumno se llama viewdelete.php
+
+formagregar.html -> es un formulario que ingresa los alumnos a la base de datos pone el alumno activo de forma automatica
+utiliza el archivo insertar.php...
+
+insertar.php -> inserta los datos en la tabla alumno luego inserta los datos en la tabla persona.
